@@ -42,10 +42,12 @@ Análisis exploratorio:
 Adicional se utilizó el comando pipe con la librería dplyr, para realizar la presentación grafica de la información.
 Se utilizaron 2 variables para la presentación de resultados:
 Representación gráfica de esta variable, se visualiza que de las 3 clases sociales, la que más sobrevivientes tuvo fue Lower Class, después Upper Class y por último Middle Class, es evidente que LowerClass eran más pasajeros y de igual forma fue la que menos sobrevivientes tuvo.
+
 ![image](https://github.com/user-attachments/assets/e385538c-64c6-4860-ba77-91381a32d9c0)
  
 Segundo Gráfico tipo histograma.
 Se muestra el rango de edad de los sobrevivientes 
+
 ![image](https://github.com/user-attachments/assets/9d90f15a-042c-493d-849e-48c1d4f27269)
 
  
